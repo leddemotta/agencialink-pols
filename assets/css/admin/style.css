@@ -1,0 +1,18 @@
+.toplevel_page_agencia-link-form .wp-menu-image:before {
+    content: "ag" !important;
+    background: #0073aa;
+    line-height: 11px;
+    font-size: 14px;
+    color: #FFF;
+    width: 28px;
+    height: 28px !important;
+    border-radius: 50px;
+}
+
+#wpbody-content {
+    background: #000 !important;
+}
+
+blockquote {
+    background: #ccc;
+}
